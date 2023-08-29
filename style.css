@@ -41,7 +41,7 @@ nav > a{
     transition-duration: 0.6s;
     white-space: nowrap; /* Impede que o texto quebre em várias linhas */
     overflow: hidden; /* Evita que o texto saia do espaço do link */
-    text-overflow: ellipsis; /* Adiciona reticências (...) ao final do texto longo */
+    
 }
 
 nav > a:hover{
