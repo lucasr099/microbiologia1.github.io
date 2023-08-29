@@ -39,7 +39,6 @@ nav > a{
     text-decoration: none;
     border-radius: 5px;
     transition-duration: 0.6s;
-    overflow: hidden; /* Evita que o texto saia do espaço do link */
     font-size: 14px;
     
 }
