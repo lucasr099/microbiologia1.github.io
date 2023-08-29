@@ -39,6 +39,8 @@ nav > a{
     text-decoration: none;
     border-radius: 5px;
     transition-duration:0.6s;
+    display:block;
+    margin: 5px 0;
 }
 
 nav > a:hover{
