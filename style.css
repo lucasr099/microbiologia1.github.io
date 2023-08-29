@@ -23,7 +23,11 @@ header{
     margin: 0;
     overflow: hidden;
 }
+header .fale-conosco {
+    max-width: 100%; /* Largura máxima igual à largura da tela */
+    margin: 0 auto; /* Centraliza o conteúdo horizontalmente */
 
+}
 nav{
     background-color: #007ACC;
     padding: 20px;
