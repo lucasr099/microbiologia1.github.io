@@ -3,17 +3,16 @@
 
 *{
 margin: 0;
-
-font-family: 'Bebas Neue', sans-serif;
-font-family: 'Libre Baskerville', serif;
-font-family: 'Nanum Myeongjo', serif;
-font-family: 'Roboto', sans-serif;
-font-family: 'Ruwudu', serif;
-font-family: 'Tilt Prism', cursive;
+    font-family: "arial";
+}
+h1, h2{
+    font-family: 'Playfair Display SC', serif;
 }
 p{
     text-align: justify;
     margin: 15px 5px;
+     font-family: 'Times New Roman', Times, serif;
+}
 }
 header{
     background-image: linear-gradient(to bottom, #003366,#007ACC);
