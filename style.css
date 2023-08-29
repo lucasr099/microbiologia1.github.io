@@ -39,7 +39,6 @@ nav > a{
     text-decoration: none;
     border-radius: 5px;
     transition-duration: 0.6s;
-    white-space: nowrap; /* Impede que o texto quebre em várias linhas */
     overflow: hidden; /* Evita que o texto saia do espaço do link */
     font-size: 14px;
     
