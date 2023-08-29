@@ -38,9 +38,10 @@ nav > a{
     padding: 10px;
     text-decoration: none;
     border-radius: 5px;
-    transition-duration:0.6s;
-    display:block;
-    margin: 5px 0;
+    transition-duration: 0.6s;
+    white-space: nowrap; /* Impede que o texto quebre em várias linhas */
+    overflow: hidden; /* Evita que o texto saia do espaço do link */
+    text-overflow: ellipsis; /* Adiciona reticências (...) ao final do texto longo */
 }
 
 nav > a:hover{
