@@ -29,9 +29,11 @@ header > p{
     padding-right: 10px;
     margin: auto;
 }
-header .fale-conosco {
+.fale-conosco {
     max-width: 100%; /* Largura máxima igual à largura da tela */
     margin: 0 auto; /* Centraliza o conteúdo horizontalmente */
+    padding: 5px;
+    box-sizing: boder-box;
 
 }
 nav{
