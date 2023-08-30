@@ -46,6 +46,7 @@ nav > a{
     border-radius: 5px;
     transition-duration: 0.6s;
     font-size: 18px;
+    margin: auto;
     
 }
 
