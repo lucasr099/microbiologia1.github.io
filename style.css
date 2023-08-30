@@ -23,6 +23,12 @@ header{
     margin: 0;
     overflow: hidden;
 }
+header > p{
+    max-width: 600px;
+    padding-left: 10px;
+    padding-right: 10px;
+    margin: auto;
+}
 header .fale-conosco {
     max-width: 100%; /* Largura máxima igual à largura da tela */
     margin: 0 auto; /* Centraliza o conteúdo horizontalmente */
