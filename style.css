@@ -30,7 +30,7 @@ header > p{
     margin: auto;
 }
 .fale-conosco {
-    max-width: 100%; /* Largura máxima igual à largura da tela */
+     max-width: calc(100% - 20px); /* Largura máxima igual à largura da tela */
     margin: 0 auto; /* Centraliza o conteúdo horizontalmente */
     padding: 5px;
     box-sizing: boder-box;
