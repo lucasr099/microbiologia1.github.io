@@ -55,7 +55,7 @@ background-color: #003366;
  nav #navebar {
     max-width: 100%; /* Largura máxima igual à largura da tela */
     margin: 0 auto; /* Centraliza o conteúdo horizontalmente */
-    padding: 0 10px; /* Adicione um espaçamento interno */
+    padding: 10px 10px; /* Adicione um espaçamento interno */
     box-sizing: border-box; /* Considerar preenchimento e borda no tamanho total */
 }
 main p{
