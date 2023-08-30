@@ -36,8 +36,10 @@ header .fale-conosco {
 }
 nav{
     background-color: #007ACC;
-    padding: 20px;
+    padding: 10px;
     display: flex;
+    justify-content: center;
+    aling-items: center;
 }
 nav > a{
     color: #ffffff;
@@ -45,7 +47,7 @@ nav > a{
     border-radius: 5px;
     transition-duration: 0.6s;
     font-size: 18px;
-    margin: 5px 0;
+    margin: 5px;
     
 }
 
@@ -55,7 +57,7 @@ background-color: #003366;
  nav #navebar {
     max-width: 100%; /* Largura máxima igual à largura da tela */
     margin: 0 auto; /* Centraliza o conteúdo horizontalmente */
-    padding: 5px; /* Adicione um espaçamento interno */
+    padding: 0 10px; /* Adicione um espaçamento interno */
     box-sizing: border-box; /* Considerar preenchimento e borda no tamanho total */
 }
 main p{
